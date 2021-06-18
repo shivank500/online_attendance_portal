@@ -1,0 +1,45 @@
+header{
+    
+    font-style: bold;
+    text-align: center;
+}
+body {
+    color: yellow
+    background-color: white;
+    margin: 0;
+}
+
+.navbar {
+    font-size: 20px;
+    background-color: #333;
+}
+
+.navbar a:hover {
+    background-color:#FF3366;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+	font-size: 20px;
+}
+
+#heading
+{
+    background-color:honeydew;
+    animation:myani 10s infinite;
+}
+
+@keyframes myani
+{
+    0%{background-color:white;}
+    30%{background-color:white;}
+    60%{background-color:white;}
+    100%{background-color:white;}
+}
+.nava{
+font-size: 20px;
+}

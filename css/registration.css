@@ -1,0 +1,6 @@
+.btn:hover
+    {
+    background: yellow;
+    color: black;
+    outline: none;
+    }
